@@ -1,5 +1,6 @@
 # Projeto-Alura-Plus - Versão Responsiva
 Projeto do curso "HTML e CSS: praticando HTML/CSS" da Alura.
+Instrutora @MonicaHillman
 
 [https://i-otsuka.github.io/projeto-alura-plus-responsivo/](https://i-otsuka.github.io/projeto-alura-plus-responsivo/)
 
